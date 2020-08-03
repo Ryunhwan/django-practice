@@ -1,6 +1,5 @@
 ### Custom ###
 secrets.json
-.idea
 
 ### Django ###
 *.log
